@@ -1,7 +1,7 @@
-![image](https://github.com/Abhi-shek03/Abhi-shek03/assets/108791816/22c019a1-2e45-4eb6-9476-bcb3cb81c97d)
+![image](https://github.com/sejalk18/sejalk18/assets/122304216/67a9a605-168b-43ef-a71a-f7057da7f44c)
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
+<h1 align="center">Hi 👋, I'm Sejal Kokane</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ReactJs, Javascript, Django**
 
-- 📫 How to reach me **upadhyayabhishek778@gmail.com**
+- 📫 How to reach me **sejalkokane1808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
